@@ -1,0 +1,1 @@
+# Sonar-based-mine-vs-rock-prediction-by-logistic-regression-model
